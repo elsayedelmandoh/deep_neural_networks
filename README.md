@@ -14,6 +14,14 @@ Welcome to the 'Deep Neural Networks' repository! This repository is your compre
 
 Whether you're new to deep learning or seeking to expand your knowledge of advanced techniques, this repository provides valuable content, examples, and resources to support your journey.
 
+## Projects
+
+[Medical Image Analysis With CNN](https://github.com/elsayedelmandoh/Medical-Image-Analysis-with-CNN)
+
+[Sentiment Analysis On Social Media Posts With LSTM](https://github.com/elsayedelmandoh/Sentiment-Analysis-on-Social-Media-Posts-with-LSTM)
+
+[Optical Character Recognition with CNN](https://github.com/elsayedelmandoh/OCR_CNN)
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions, improvements, or additional content to contribute, feel free to open issues, submit pull requests, or provide feedback. Your contributions help make this repository a valuable resource for the community.
